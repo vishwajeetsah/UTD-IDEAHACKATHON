@@ -1,7 +1,4 @@
 # UTD-IDEAHACKATHON
-Perfect 👌 I’ll re-organize your **Problem Statement details** into a **clean, hackathon submission–ready format**. This way, it looks structured and professional when you include it in your README, PPT, or SIH portal submission.
-
----
 
 # 🏛️ Problem Statement Details
 
