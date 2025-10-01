@@ -6,7 +6,9 @@
 **Title:** *Enhancing Student Awareness on the Difference Between Aadhaar-Linked and DBT-Enabled Aadhaar-Seeded Bank Accounts*
 
 **Problem Creator’s Name:** Puspendra Singh Bhadauriya
+
 **Organization:** Ministry of Social Justice & Empowerment (MoSJE)
+
 **Department:** Department of Social Justice & Empowerment (DoSJE)
 
 ---
